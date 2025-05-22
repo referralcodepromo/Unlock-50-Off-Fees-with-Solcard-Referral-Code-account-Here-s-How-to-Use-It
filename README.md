@@ -25,7 +25,7 @@ By using the **referral code `account`**, new users receive **50% off Solcard fe
 
 Follow these steps to apply your discount:
 
-1. Visit the [official Solcard website](https://solcard.io).
+1. Visit the [official Solcard website](https://solcard.cc/r/account).
 2. Click on **“Get Started”** or **“Activate Card”**.
 3. During the sign-up or activation process, look for the **“Referral Code”** section.
 4. Enter the code: `account`
@@ -43,7 +43,7 @@ Follow these steps to apply your discount:
 
 ## 🌐 Learn More About Solcard
 
-Visit [https://solcard.io](https://solcard.io) to explore Solcard’s features, roadmap, supported countries, and crypto integrations.
+Visit [https://solcard.io](https://solcard.cc/r/account) to explore Solcard’s features, roadmap, supported countries, and crypto integrations.
 
 ---
 
